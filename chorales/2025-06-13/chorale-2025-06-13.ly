@@ -46,7 +46,7 @@ viola = \relative c' {
 cello = \relative c {
   \global
   % Music follows here.
-  
+  \partial 4 d4~ | d2 e4 fis2 
 }
 
 violinIPart = \new Staff \with {
